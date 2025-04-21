@@ -1,6 +1,11 @@
 # data-analytics-projects
 Portfolio of SQL, Python, and Power BI projects
 
+## ✨ About Me
+
+**Hi! I'm Syahin**, an Electrical Engineering graduate, data analytics enthusiast, and currently transitioning into the data field after completing the **Google Professional Data Analytics Certificate**.  This is my 1st project I'm trying to commplete to showcase my ability after learning the data analytic course. I hope by taking this first step would mean a bigger jump in my future career. Thank you for visiting. 
+
+Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/syahin-hisham-489744281/)) and check out more of my work!
 ---
 
 # 📊 Mobile & Laptop Sales Data Analysis & Dashboard
@@ -67,13 +72,6 @@ It showcases my skills in **data cleaning**, **exploratory data analysis (EDA)**
 - Data Visualization (Power BI)  
 - Dashboard Storytelling  
 - GitHub Portfolio Building  
-
----
-
-## ✨ About Me
-
-**Hi! I'm Syahin**, an Electrical Engineering graduate, data analytics enthusiast, and currently transitioning into the data field after completing the **Google Professional Data Analytics Certificate**.  
-Connect with me on [LinkedIn](https://www.linkedin.com) and check out more of my work!
 
 ---
 
