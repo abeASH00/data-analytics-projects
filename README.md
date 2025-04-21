@@ -1,87 +1,103 @@
-📚 Data Analytics Projects
-Portfolio of SQL, Python, and Power BI Projects
 
-✨ About Me
-Hi! I'm Syahin, an Electrical Engineering graduate, data analytics enthusiast, and currently transitioning into the data field after completing the Google Professional Data Analytics Certificate.
 
-This is my first data analytics project, built to showcase the skills I’ve gained from my learning journey. I hope this first step will open the door to bigger opportunities in my future career.
+# 📁 data-analytics-projects  
+**Portfolio of SQL, Python, and Power BI Projects**
 
-Thank you for visiting — your feedback and support are truly appreciated!
+---
 
-👉 Connect with me on LinkedIn and check out more of my work!
+## ✨ About Me  
 
-📊 Mobile & Laptop Sales Data Analysis & Dashboard
+**Hi! I'm Syahin** — an Electrical Engineering graduate, data analytics enthusiast, and currently transitioning into the data field after completing the **Google Professional Data Analytics Certificate**.
 
-📌 Project Overview
-This project analyzes mobile phone and laptop sales data using SQL for data exploration and Power BI for interactive dashboard visualization.
+This is my **first project**, created to showcase the skills I've developed from the course. I'm excited to take this first step, hoping it marks the start of bigger opportunities in my future career. Thank you for visiting!
 
-It demonstrates skills in:
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/syahin-hisham-489744281/)  
 
-Data Cleaning
+---
 
-Exploratory Data Analysis (EDA)
+# 📊 Mobile & Laptop Sales Data Analysis & Dashboard  
 
-Data Visualization
+![Dashboard Preview](cover.png)  
 
-Dashboard Reporting
+---
 
-📂 Project Files
+## 📌 Project Overview  
 
-File	Description
-mobile_sales_data.csv	Raw dataset containing sales records
-SQL_Sales_EDA_Queries.sql	SQL queries for data cleaning and EDA
-PowerBI_Dashboard.pbix	Final interactive Power BI dashboard
-cover.png	Project dashboard preview image
-🎯 Key Insights
-✅ Top 5 Most Popular Brands
-✅ Regional Sales Distribution
-✅ Average Price Comparison between Products
-✅ Brand-wise Price & Quantity Sold Analysis
+This project analyzes mobile phone and laptop sales data using **SQL** for data exploration and **Power BI** for interactive dashboard visualization.  
+It showcases my skills in:
+- ✅ Data Cleaning  
+- ✅ Exploratory Data Analysis (EDA)  
+- ✅ Dashboard Reporting  
 
-📈 Dashboard Highlights
-📌 Product Distribution: Compare Laptop vs Mobile sales
+---
 
-📌 Top Selling Brands: See which brands dominate
+## 📂 Project Files  
 
-📌 Regional Performance: Sales breakdown by region
+| File                          | Description                            |
+|:-----------------------------|:----------------------------------------|
+| `mobile_sales_data.csv`        | Raw dataset containing sales records    |
+| `SQL_Sales_EDA_Queries.sql`    | SQL queries used for cleaning and EDA   |
+| `PowerBI_Dashboard.pbix`       | Final interactive Power BI dashboard    |
+| `cover.png`                    | Project dashboard preview image         |
 
-📌 Average Prices: Visualize price averages by brand & type
+---
 
-📌 Sales Trends: Track quantities sold over time
+## 🎯 Key Insights  
 
-🔧 Tools Used
-MySQL 8.0
+- ✅ Top 5 Most Popular Brands  
+- ✅ Regional Sales Distribution  
+- ✅ Average Price Comparison between Products  
+- ✅ Brand-wise Price & Quantity Sold Analysis  
 
-Power BI Desktop
+---
 
-GitHub
+## 📈 Dashboard Highlights  
 
-🚀 How to Run This Project
-Download the mobile_sales_data.csv and SQL_Sales_EDA_Queries.sql files
+- 📌 **Product Distribution** — Compare Laptop vs Mobile sales counts  
+- 📌 **Top Selling Brands** — Discover market leaders  
+- 📌 **Regional Performance** — Sales breakdown by region  
+- 📌 **Average Prices** — Visualize average prices by brand and product type  
+- 📌 **Sales Trends** — Explore quantity sold over time  
 
-Import the dataset into MySQL and run the queries
+---
 
-Open PowerBI_Dashboard.pbix using Power BI Desktop
+## 🔧 Tools Used  
 
-Explore the dashboard interactively
+- **MySQL 8.0**  
+- **Power BI Desktop**  
+- **GitHub**  
 
-📚 Skills Demonstrated
-SQL Data Cleaning & EDA
+---
 
-Database Management (MySQL)
+## 🚀 How to Run This Project  
 
-Data Visualization (Power BI)
+1. 📥 Download `mobile_sales_data.csv` and `SQL_Sales_EDA_Queries.sql`
+2. 🛠️ Import the dataset into **MySQL** and run the SQL queries
+3. 📊 Open `PowerBI_Dashboard.pbix` in **Power BI Desktop**
+4. 🎨 Interact and explore the dashboard  
 
-Dashboard Storytelling
+---
 
-GitHub Portfolio Management
+## 📚 Skills Demonstrated  
 
-📌 Future Improvements
-Add product category trends over time
+- SQL Data Cleaning & EDA  
+- Database Management (MySQL)  
+- Data Visualization (Power BI)  
+- Dashboard Storytelling  
+- GitHub Portfolio Building  
 
-Integrate dynamic slicers and filters
+---
 
-Include customer demographic analytics (if available)
+## 📌 Future Improvements  
 
-✅ Final Thoughts
-This project represents my first step into the practical world of data analytics. I'm proud of this milestone and excited to keep building, learning, and improving.
+- Add product category trends over time  
+- Integrate dynamic slicers and filters  
+- Include customer demographic analytics (if available)  
+
+---
+
+✅ **Pro Tip:**  
+When you upload this to GitHub:
+- Name your repository something like `mobile-laptop-sales-dashboard`  
+- Place this file as `README.md` in the root of your repository  
+- Add a nice **cover image** or **dashboard screenshot** as `cover.png`  
